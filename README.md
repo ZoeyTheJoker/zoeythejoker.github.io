@@ -1,4 +1,4 @@
-# zoeythejoker.github.io
+/ZoeyTheJoker/zoeythejoker.github.io/ZTJW_logo.png
 this is my website. in the future (when i learn how to code in html) i will use the website to:
 
 - upload mods that i made
