@@ -1,4 +1,4 @@
-/ZoeyTheJoker/zoeythejoker.github.io/ZTJW_logo.png
+<img src="https://raw.githubusercontent.com/ZoeyTheJoker/zoeythejoker.github.io/main/ZTJW_logo.png" align="center"/>
 this is my website. in the future (when i learn how to code in html) i will use the website to:
 
 - upload mods that i made
